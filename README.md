@@ -1,5 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mahfujur-rh&label=Profile%20views&color=0e75b6&style=flat" alt="mahfujur-rh" /> </p>
-
+<div style="font-family: 'Arial', sans-serif; font-weight: 700; font-size: 20px; color: #333;">
+    MSR
+</div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Assalamu+Alaikum+everyone!;My+name+is+Mahfujur+R;" />
 </h1>
@@ -79,4 +81,6 @@
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
-<br/>
+<footer style="position: fixed; bottom: 0; width: 100%; text-align: center; padding: 10px; background-color: #f2f2f2; font-family: Arial, sans-serif; font-size: 14px;">
+    &copy; <span id="year"></span> MSR. All rights reserved 2025.
+</footer>
