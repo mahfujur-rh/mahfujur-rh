@@ -64,16 +64,18 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<div align="center">
-  <!-- First row: GitHub stats and Streak stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mahfujur-rh&theme=bear&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="350" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mahfujur-rh&theme=bear&hide_border=false" alt="Streak Stats" width="350" />
-  
-  <br/><br/>
-  
-  <!-- Second row: Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfujur-rh&theme=bear&hide_border=false&layout=compact" alt="Top Languages" width="720" />
-</div>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfujur-rh&show_icons=true&locale=en&layout=compact" alt="mahfujur-rh" />
+</p>
+
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfujur-rh&show_icons=true&locale=en" alt="mahfujur-rh" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujur-rh" alt="mahfujur-rh" />
+</p>
+
 
 <div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
