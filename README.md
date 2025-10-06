@@ -3,7 +3,8 @@
     MSR
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Assalamu+Alaikum+everyone!;My+name+is+Mahfujur+R;" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=000000&lines=Assalamu+Alaikum+everyone!;My+name+is+Mahfujur+Rahman!!;" />
+
 </h1>
 
 
