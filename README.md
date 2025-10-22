@@ -8,7 +8,7 @@
 </h1>
 
 
-<h3 align="center"> Computer Science undergraduate at Metropolitan University, Bangladesh.</h3>
+<h2 align="center"> Computer Science undergraduate at Metropolitan University, Bangladesh.</h2>
 <br/>
   - 👥 I’m currently learning **Computer Science Engineering**
 
