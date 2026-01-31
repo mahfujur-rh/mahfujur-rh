@@ -94,19 +94,13 @@ I believe in **continuous learning, consistency, and hands-on experience** to gr
 
 <hr/>
 
-<h2 align="center">⚡ Stats </h2>
+<h2 align="center">📊 GitHub Stats </h2>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfujur-rh&show_icons=true&locale=en&layout=compact" alt="mahfujur-rh" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=mahfujur-rh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> 
+![](https://nirzak-streak-stats.vercel.app/?user=mahfujur-rh&theme=dark&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfujur-rh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfujur-rh&show_icons=true&locale=en" alt="mahfujur-rh" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujur-rh" alt="mahfujur-rh" />
-</p>
+--- 
 
 
 <p align="center">
