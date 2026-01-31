@@ -13,7 +13,7 @@
   
 ### 🌟About Me 
 
-I'm Mahfuj, a **Computer Science & Engineering (CSE)** student with a strong interest in programming, software development, and modern technologies. I enjoy learning new concepts and applying them to build practical, real-world projects.
+Hi,I'm Mahfuj, a **Computer Science & Engineering (CSE)** student with a strong interest in programming, software development, and modern technologies. I enjoy learning new concepts and applying them to build practical, real-world projects.
 
 Currently, I’m focused on strengthening my skills in **coding, web development, and problem-solving**, while continuously improving my understanding of software engineering principles and best practices.
 
