@@ -46,7 +46,6 @@ I believe in **continuous learning, consistency, and hands-on experience** to gr
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF5733?style=for-the-badge&logo=codeforces&logoColor=white)
 
 </p>
@@ -84,16 +83,6 @@ I believe in **continuous learning, consistency, and hands-on experience** to gr
 </a>
 
 </p>
-
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,c,c++" />
-</div>
-
-<br/>
-<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions </h2>
