@@ -103,7 +103,7 @@ I believe in **continuous learning, consistency, and hands-on experience** to gr
 
 
 <footer style="position: fixed; bottom: 0; width: 100%; text-align: center; padding: 10px; background-color: #f2f2f2; font-family: Arial, sans-serif; font-size: 14px;">
-    &copy; <span id="year"></span> MSR. All rights reserved 2025.
+    &copy; <span id="year"></span> MSR. All rights reserved 2026.
 </footer>
 
 
