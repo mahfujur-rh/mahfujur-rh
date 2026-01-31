@@ -12,7 +12,7 @@
 <h2 align="center"> Computer Science undergraduate at Metropolitan University, Bangladesh.</h2>
 <br/>
   
-### 🌟 About Me
+<h2 align="center">🌟 About Me</h2>
 
 <table>
   <tr>
@@ -34,13 +34,13 @@ I believe in **continuous learning, consistency, and hands-on experience** to gr
 </table>
 
 
-### 🖥️Skills
+<h2 align="center"> 🖥️Skills</h2>
 - Programming Languages: `C`, `C++`, `JavaScript`  
 - Web Development: `HTML`, `CSS`, `Bootstrap`  
 - Tools & Technologies: `Git`, `VS Code`, `CodeBlocks`  
 - Problem Solving & Algorithms  
 
-## 🌐 Connect With Me
+<h2 align="center">🌐Follow Me Online</h2>
 <p align="center">
   <a href="https://linkedin.com/in/mahfujur-r" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -72,7 +72,7 @@ I believe in **continuous learning, consistency, and hands-on experience** to gr
 </p>
 
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,c,c++" />
@@ -82,7 +82,7 @@ I believe in **continuous learning, consistency, and hands-on experience** to gr
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
@@ -91,7 +91,7 @@ I believe in **continuous learning, consistency, and hands-on experience** to gr
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats </h2>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfujur-rh&show_icons=true&locale=en&layout=compact" alt="mahfujur-rh" />
