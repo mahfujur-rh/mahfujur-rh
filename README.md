@@ -95,18 +95,6 @@ I believe in **continuous learning, consistency, and hands-on experience** to gr
 </p>
 
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-    <P>
-</P>
-</div>
-
-
-<footer style="position: fixed; bottom: 0; width: 100%; text-align: center; padding: 10px; background-color: #f2f2f2; font-family: Arial, sans-serif; font-size: 14px;">
-    &copy; <span id="year"></span> MSR. All rights reserved 2026.
-</footer>
-
-
 <p align="center">
   💡 <b>Building the future, one deployment at a time</b><br><br>
   <img src="https://komarev.com/ghpvc/?username=mahfujur-rh&color=brightgreen&style=flat-square" alt="Profile Views" /> &nbsp;
@@ -114,3 +102,7 @@ I believe in **continuous learning, consistency, and hands-on experience** to gr
     <img src="https://img.shields.io/github/followers/mahfujur-rh?label=Follow&style=social" alt="GitHub Followers" />
   </a>
 </p>
+
+<footer style="position: fixed; bottom: 0; width: 100%; text-align: center; padding: 10px; background-color: #f2f2f2; font-family: Arial, sans-serif; font-size: 14px;">
+    &copy; <span id="year"></span> MSR. All rights reserved 2026.
+</footer>
