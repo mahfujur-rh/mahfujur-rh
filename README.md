@@ -11,27 +11,31 @@
 
 <h2 align="center"> Computer Science undergraduate at Metropolitan University, Bangladesh.</h2>
 <br/>
-  
-<h2 align="center">🌟 About Me</h2>
+  <h2 align="center">🌟 About Me</h2>
 
-<table>
-  <tr>
-    <td>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="180" />
+</p>
+
 Hi, I'm **Mahfuj**, a **Computer Science & Engineering (CSE)** student with a strong interest in programming, software development, and modern technologies. I enjoy learning new concepts and applying them to build practical, real-world projects.
 
-Currently, I’m focused on strengthening my skills in **coding, web development, and problem-solving**, while continuously improving my understanding of software engineering principles and best practices. 
+Currently, I’m focused on strengthening my skills in **coding, web development, and problem-solving**, while continuously improving my understanding of software engineering principles and best practices.
 
 I believe in **continuous learning, consistency, and hands-on experience** to grow as a developer. My goal is to become an **industry-ready software engineer** and contribute to meaningful and impactful projects.
 
-📚  **I’m currently learning:** Computer Science Engineering  
-🧩 **Interests:** Coding, Problem Solving, Technology  
-🎯 **Goal:** Professional Software Engineer
-    </td>
-    <td width="200">
-      <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-    </td>
-  </tr>
-</table>
+---
+
+### 📚 Currently Learning
+- Computer Science & Engineering  
+
+### 🧩 Interests
+- Coding  
+- Problem Solving  
+- Technology  
+
+### 🎯 Goal
+- Professional Software Engineer
+
 
 
 <p align="center">
