@@ -1,7 +1,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mahfujur-rh&label=Profile%20views&color=0e75b6&style=flat" alt="mahfujur-rh" /> </p>
 <div style="font-family: 'Arial', sans-serif; font-weight: 700; font-size: 20px; color: #333;">
-    Mahfuz
+    
 </div>
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=000000&lines=Assalamu+Alaikum!;My+name+is+Mahfujur+Rahman!!;" />
