@@ -1,7 +1,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mahfujur-rh&label=Profile%20views&color=0e75b6&style=flat" alt="mahfujur-rh" /> </p>
 <div style="font-family: 'Arial', sans-serif; font-weight: 700; font-size: 20px; color: #333;">
-    MSR
+    Mahfuz
 </div>
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=000000&lines=Assalamu+Alaikum!;My+name+is+Mahfujur+Rahman!!;" />
@@ -116,5 +116,5 @@ I believe in **continuous learning, consistency, and hands-on experience** to gr
 </p>
 
 <footer style="position: fixed; bottom: 0; width: 100%; text-align: center; padding: 10px; background-color: #f2f2f2; font-family: Arial, sans-serif; font-size: 14px;">
-    &copy; <span id="year"></span> MSR. All rights reserved 2026.
+    &copy; <span id="year"></span> Mahfujurrahman. All rights reserved 2026.
 </footer>
